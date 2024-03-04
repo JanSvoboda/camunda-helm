@@ -1,0 +1,15 @@
+dependencies:
+- name: identity
+  repository: ""
+  version: 9.2.0
+- name: elasticsearch
+  repository: oci://registry-1.docker.io/bitnamicharts
+  version: 19.19.3
+- name: postgresql
+  repository: https://charts.bitnami.com/bitnami
+  version: 11.9.13
+- name: common
+  repository: https://charts.bitnami.com/bitnami
+  version: 2.16.1
+digest: sha256:2d1bb9a3b3380598a7735cb9f45ff9c22260a6d1693bb225e395a55535fb1434
+generated: "2024-02-29T09:13:45.131754989Z"
